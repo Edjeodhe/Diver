@@ -1,0 +1,7 @@
+[
+  { "id": "speargun", "name": "작살총", "description": "기본 작살총. 재장전만 기다리면 무제한으로 쏜다.", "type": "projectile", "cost": 0, "damage": 12, "reload": 0.85, "rangeM": 20, "ammo": -1, "speed": 950, "projectiles": 1, "spread": 0 },
+  { "id": "spear", "name": "작살창", "description": "근접 찌르기. 사거리는 짧지만 한 번에 강한 피해를 주고 앞쪽 부채꼴 범위를 함께 벤다.", "type": "melee", "cost": 900, "damage": 30, "reload": 0.55, "rangeM": 3.4, "ammo": -1, "arc": 1.0 },
+  { "id": "trispear", "name": "3연발 작살총", "description": "작살 3발을 부채꼴로 발사한다. 어군 사냥에 강하다.", "type": "projectile", "cost": 1600, "damage": 9, "reload": 1.15, "rangeM": 15, "ammo": 24, "speed": 880, "projectiles": 3, "spread": 0.24 },
+  { "id": "netgun", "name": "그물총", "description": "그물을 쏘아 범위 안의 약한 생물(현재 HP 40 이하)을 한꺼번에 포획한다.", "type": "net", "cost": 2200, "damage": 0, "reload": 1.4, "rangeM": 13, "ammo": 6, "speed": 560, "netRadius": 52, "captureHp": 40 },
+  { "id": "shockspear", "name": "전기 작살", "description": "명중 시 주변 생물에게 전격이 튀고 잠시 기절시킨다. 대형 생물 대응용.", "type": "projectile", "cost": 4200, "damage": 20, "reload": 1.1, "rangeM": 20, "ammo": 10, "speed": 1000, "projectiles": 1, "spread": 0, "stun": 1.8, "chainRadius": 110, "chainCount": 3 }
+]

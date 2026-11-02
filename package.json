@@ -1,0 +1,17 @@
+{
+  "name": "sumbi-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "숨비(SUMBI) - 해양 다이빙 어드벤처 웹 프로토타입",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}

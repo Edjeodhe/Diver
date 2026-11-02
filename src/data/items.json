@@ -1,0 +1,9 @@
+[
+  { "id": "seaweed", "name": "미역", "depthMin": 0, "depthMax": 40, "value": 40, "weight": 0.3, "color": "#4f8f3a", "shape": "seaweed", "rarity": 8, "harvestTime": 0.6 },
+  { "id": "turbanshell", "name": "소라", "depthMin": 2, "depthMax": 60, "value": 120, "weight": 0.5, "color": "#c7a27a", "shape": "shell", "rarity": 7, "harvestTime": 0.8 },
+  { "id": "urchin", "name": "성게", "depthMin": 4, "depthMax": 80, "value": 200, "weight": 0.4, "color": "#3b2a4f", "shape": "urchin", "rarity": 6, "harvestTime": 1.0 },
+  { "id": "abalone", "name": "전복", "depthMin": 25, "depthMax": 120, "value": 700, "weight": 0.8, "color": "#8b9c8a", "shape": "abalone", "rarity": 4, "harvestTime": 1.4 },
+  { "id": "seacucumber", "name": "해삼", "depthMin": 50, "depthMax": 160, "value": 450, "weight": 0.6, "color": "#5a3d2b", "shape": "cucumber", "rarity": 4, "harvestTime": 1.0 },
+  { "id": "pearl", "name": "진주", "depthMin": 80, "depthMax": 230, "value": 3000, "weight": 0.1, "color": "#f3eee0", "shape": "pearl", "rarity": 0.8, "harvestTime": 2.0 },
+  { "id": "manganese", "name": "망간 단괴", "depthMin": 140, "depthMax": 230, "value": 1500, "weight": 3, "color": "#2f3540", "shape": "ore", "rarity": 3, "harvestTime": 1.8 }
+]

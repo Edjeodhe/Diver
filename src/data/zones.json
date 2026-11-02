@@ -1,0 +1,6 @@
+[
+  { "id": "shallows", "name": "얕은 바다", "depthMin": 0, "depthMax": 50, "oxygenMultiplier": 1.0, "water": "#3cb4dc", "rock": "#5b7f6e" },
+  { "id": "reef", "name": "산호 숲", "depthMin": 50, "depthMax": 100, "oxygenMultiplier": 1.6, "water": "#1677a8", "rock": "#2f5560" },
+  { "id": "canyon", "name": "심해 협곡", "depthMin": 100, "depthMax": 160, "oxygenMultiplier": 2.4, "water": "#0a3a5e", "rock": "#173244" },
+  { "id": "abyss", "name": "심연", "depthMin": 160, "depthMax": 230, "oxygenMultiplier": 3.4, "water": "#020a14", "rock": "#0a1824" }
+]

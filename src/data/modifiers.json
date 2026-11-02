@@ -1,0 +1,7 @@
+[
+  { "id": "calm", "name": "잔잔한 바다", "description": "특별한 변화가 없는 바다.", "weight": 3 },
+  { "id": "current", "name": "강한 해류", "description": "수평 해류가 몸을 계속 밀어낸다.", "weight": 2, "currentForce": 70 },
+  { "id": "murky", "name": "탁한 물", "description": "시야가 좁고 어둡다. 대신 채집물이 많다.", "weight": 2, "darknessBonus": 0.18, "lightScale": 0.75, "resourceMultiplier": 1.5 },
+  { "id": "bloom", "name": "대형 어군", "description": "물고기가 평소보다 훨씬 많다.", "weight": 2, "fishMultiplier": 1.6 },
+  { "id": "predator", "name": "포식자의 바다", "description": "공격적인 생물과 정예 개체가 늘어난다. 획득 가치 +25%.", "weight": 1, "aggressiveWeight": 2.2, "eliteMultiplier": 2.5, "valueMultiplier": 1.25 }
+]
